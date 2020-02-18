@@ -9,8 +9,7 @@ else 40 >= speed <= 60
   binding.pry
   speed >= 40 && speed <= 60
   false
-TRUE
-end
+  end
 end
 
 
